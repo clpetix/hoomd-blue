@@ -127,3 +127,4 @@ The following people have contributed to HOOMD-blue:
 * Nathan Barrett, Pritzker School of Molecular Engineering
 * Domagoj Fijan, University of Michigan
 * Cristina Butu, Columbia University
+* C. Levi Petix, Auburn University
